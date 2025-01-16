@@ -4,8 +4,8 @@ import "./howitworks.css"
 import Btn from './btn'
 import home from "/src/assets/home2.png"
 import home2 from "/src/assets/home.png"
-import welcome from "/src/assets/welcome1.png"
-import welcome1 from "/src/assets/welcome.png"
+import welcome from "/src/assets/Welcome1.png"
+import welcome1 from "/src/assets/Welcome.png"
 import google from '/src/assets/google.png'
 import apple from '/src/assets/apple.png'
 import phone from '/src/assets/phone-call.png'
